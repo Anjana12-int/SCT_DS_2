@@ -5,7 +5,7 @@
 This repository contains **Task 2** of my **Data Science Internship**, where I worked on the Titanic dataset to perform data cleaning, exploratory data analysis (EDA), and uncover meaningful patterns related to survival.
 
 
-## 🧠 Objective
+##  Objective
 
 * Clean and preprocess the Titanic dataset
 * Handle missing data thoughtfully
@@ -13,7 +13,7 @@ This repository contains **Task 2** of my **Data Science Internship**, where I w
 * Identify key patterns and insights about passenger survival
 
 
-## 📁 Dataset
+##  Dataset
 
 The dataset used is the classic **Titanic dataset** from [Kaggle](https://www.kaggle.com/competitions/titanic/data), containing information about passengers such as:
 
@@ -21,9 +21,8 @@ The dataset used is the classic **Titanic dataset** from [Kaggle](https://www.ka
 * Ticket Fare, Family relations (SibSp & Parch)
 * Embarkation Port, Survival outcome
 
----
 
-## 🔧 Data Cleaning Steps
+##  Data Cleaning Steps
 
 * Handled missing values in `Age` and `Embarked`
 * Dropped `Cabin` due to high percentage of missing values
@@ -33,7 +32,7 @@ The dataset used is the classic **Titanic dataset** from [Kaggle](https://www.ka
   * `Title` extracted from passenger names
 
 
-## 📊 EDA Highlights
+##  EDA Highlights
 
 * Survival rate is higher among:
 
@@ -44,23 +43,18 @@ The dataset used is the classic **Titanic dataset** from [Kaggle](https://www.ka
 * Higher fare correlated with better survival rate
 * Visualization tools used: `seaborn`, `matplotlib`
 
----
 
-## 📌 Key Findings
+##  Key Findings
 
-* **Gender and class** were strong predictors of survival
-* **Fare and age** also showed interesting survival trends
-* Engineered features like `FamilySize` helped uncover deeper insights
-
----
-
-## 📎 Tools Used
+* "Gender and class" were strong predictors of survival
+* "Fare and age" also showed interesting survival trends
+  
+##  Tools Used
 
 * Python (Pandas, NumPy)
 * Data Visualization: Seaborn, Matplotlib
 * Jupyter Notebook / Google Colab
 
----
 
 
 
