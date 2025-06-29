@@ -1,6 +1,6 @@
 
 
-# 🚢 Titanic Dataset - Data Cleaning & Exploratory Data Analysis (EDA)
+#  Titanic Dataset - Data Cleaning & Exploratory Data Analysis (EDA)
 
 This repository contains **Task 2** of my **Data Science Internship**, where I worked on the Titanic dataset to perform data cleaning, exploratory data analysis (EDA), and uncover meaningful patterns related to survival.
 
